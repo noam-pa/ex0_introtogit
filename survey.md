@@ -1,4 +1,4 @@
-Favorite color: pin
+Favorite color: pink
 Favorite food: hamburger
 Favorite musician/band: ac dc
 Favorite movie: thor 3
